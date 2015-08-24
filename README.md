@@ -15,5 +15,8 @@ Purpose of the project
 Plan to work
 We plan to develop this project using Html, JavaScript
 
+Blog
+    http://conversionorganic.blogspot.com/
+
 Interface
     https://moqups.com/sivaramya/XKNj8bNn/
